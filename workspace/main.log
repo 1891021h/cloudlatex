@@ -1,30 +1,67 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2021.1.17)  8 MAR 2021 14:03
-entering extended mode
- restricted \write18 enabled.
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2021.1.17)  21 MAR 2021 16:52
+ restricted system commands enabled.
 **main.tex
 (./main.tex
-pLaTeX2e <2020-02-02>+3 (based on LaTeX2e <2020-02-02> patch level 5)
-L3 programming layer <2020-02-25>
-(/usr/local/texlive/2019/texmf-dist/tex/latex/plautopatch/plautopatch.sty
-Package: plautopatch 2020/02/25 v0.9e Automated patches for pLaTeX/upLaTeX
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/filehook/filehook.sty
-Package: filehook 2020/02/03 v0.7 Hooks for input files
-))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/nag/nag.sty
-Package: nag 2011/11/25 0.7 warning about old commands (ulmi)
-\c@nag@c=\count166
-\c@nag@sins=\count167
-Package nag Info: Loaded nag-l2tabu.cfg  on input line 552.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/nag/nag-l2tabu.cfg
-File: nag-l2tabu.cfg 2010/05/17 v2.11 l2tabu rules for nag.sty (ulmi)
-)
-Package nag Info: Loaded nag-orthodox.cfg  on input line 552.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/nag/nag-orthodox.cfg
-File: nag-orthodox.cfg 2006/04/19 v1.8 strict rules for nag.sty (ulmi)
-))
+LaTeX2e <2020-02-02> patch level 5
+Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
+Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initializatio
+n
+Lua module: lualibs 2020-02-02 2.70 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2020-02-02 2.70 ConTeXt Lua libraries -- extended c
+ollection.
+Lua module: luaotfload-log 2020-02-02 3.12 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2020-02-02 3.12 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2020-02-02 3.12 luaotfload submodule / conf
+ig file reader
+luaotfload | conf : Root cache directory is /usr/local/texlive/2019/texmf-var/lu
+atex-cache/generic-dev/names.
+luaotfload | init : Loading fontloader “fontloader-2020-01-26.lua” from kpse
+-resolved path “/usr/local/texlive/2019/texmf-dist/tex/luatex/luaotfload/fontl
+oader-2020-01-26.lua”.
+Lua-only attribute luaotfload@state = 2
+Lua-only attribute luaotfload@noligature = 3
+Lua-only attribute luaotfload@syllabe = 4
+luaotfload | init : Context OpenType loader version “3.11”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Lua module: luaotfload-loaders 2020-02-02 3.12 luaotfload submodule / callback h
+andling
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua module: luaotfload-database 2020-02-02 3.12 luaotfload submodule / database
+Lua module: luaotfload-unicode 2020-02-02 3.12 luaotfload submodule / Unicode he
+lpers
+Lua module: luaotfload-colors 2020-02-02 3.12 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 5
+Lua module: luaotfload-resolvers 2020-02-02 3.12 luaotfload submodule / resolver
+s
+luaotfload | conf : Root cache directory is /usr/local/texlive/2019/texmf-var/lu
+atex-cache/generic-dev/names.
+Lua module: luaotfload-features 2020-02-02 3.12 luaotfload submodule / features
+Lua module: luaotfload-letterspace 2020-02-02 3.12 luaotfload submodule / color
+Lua module: luaotfload-embolden 2020-02-02 3.12 luaotfload submodule / color
+Lua module: luaotfload-notdef 2020-02-02 3.12 luaotfload submodule / color
+Lua module: luaotfload-auxiliary 2020-02-02 3.12 luaotfload submodule / auxiliar
+y functions
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
+t'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
+Lua module: luaotfload-fallback 2020-02-02 3.12 luaotfload submodule / fallback
+Lua module: luaotfload-multiscript 2020-02-02 3.12 luaotfload submodule / multis
+cript
+Lua module: luaotfload-script 2020-02-02 3.12 luaotfload submodule / Script help
+ers
+Lua module: luaotfload-tounicode 2020-02-02 3.12 luaotfload submodule / tounicod
+e
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
+. L3 programming layer <2020-02-25>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/jlreq/jlreq.cls
 Document Class: jlreq 2020/02/07 jlreq
 (/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -32,62 +69,377 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks16
-\XKV@tempa@toks=\toks17
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count168
+\XKV@depth=\count163
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/everyhook/everyhook.sty
 (/usr/local/texlive/2019/texmf-dist/tex/latex/svn-prov/svn-prov.sty
 Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
 )
-Package: everyhook 2014/11/26 v1.2 (SVN Rev: 12)\ Hooks for low level TeX every
-X primitives.
+Package: everyhook 2014/11/26 v1.2 (SVN Rev: 12)\ Hooks for low level TeX everyX
+ primitives.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count169
+\etb@tempcnta=\count164
 )
-\everypar=\toks18
-\frozen@everymath=\toks19
-\frozen@everydisplay=\toks20
-\everyhbox=\toks21
-\everyvbox=\toks22
-\everycr=\toks23
+\everypar=\toks17
+\frozen@everymath=\toks18
+\frozen@everydisplay=\toks19
+\everyhbox=\toks20
+\everyvbox=\toks21
+\everycr=\toks22
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2020/02/03 v0.7 Hooks for input files
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/jlreq/jlreq-helpers.sty
 Package: jlreq-helpers 2018/08/15 jlreq-helpers
-\jlreq@tempcnta=\count170
-\jlreq@tempcntb=\count171
-\jlreq@tempcntc=\count172
-\jlreq@tempdima=\dimen150
-\jlreq@tempdimb=\dimen151
-\jlreq@tempdimc=\dimen152
+\jlreq@tempcnta=\count165
+\jlreq@tempcntb=\count166
+\jlreq@tempcntc=\count167
+\jlreq@tempdima=\dimen134
+\jlreq@tempdimb=\dimen135
+\jlreq@tempdimc=\dimen136
 \jlreq@tempskipa=\skip47
 \jlreq@tempskipb=\skip48
 \jlreq@tempskipc=\skip49
-\jlreq@tempboxa=\box61
-\jlreq@tempboxb=\box62
-\jlreq@tempboxc=\box63
-\jlreq@resultdimen=\dimen153
+\jlreq@tempboxa=\box45
+\jlreq@tempboxb=\box46
+\jlreq@tempboxc=\box47
+\jlreq@resultdimen=\dimen137
 \jlreq@resultskip=\skip50
-\jlreq@resultbox=\box64
-\jlreq@resultcnt=\count173
-\jlreq@reference@count=\count174
-\jlreq@currentpage=\count175
+\jlreq@resultbox=\box48
+\jlreq@resultcnt=\count168
+\jlreq@reference@count=\count169
+\jlreq@currentpage=\count170
 )
-\jlreq@current@linewidth=\dimen154
-\jlreq@rest@linewidth=\dimen155
-\jlreq@lastnodechar=\count176
-\jlreq@fontsize=\dimen156
-\jlreq@jafontsize=\dimen157
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\dimen138
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+jlreq guessed engine: lualatex
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/luatexja/luatexja.sty
+Package: luatexja 2020/03/01 Japanese Typesetting with Lua(La)TeX
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/lmodern.sty
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/luatexja/luatexja-core.sty
+Package: luatexja-core 2017/11/12 Core of LuaTeX-ja
+
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count171
+)
+\CatcodeTableOther=\catcodetable5
+\CatcodeTableExpl=\catcodetable6
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks23
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\AtBeginShipoutBox=\box49
+\ltjlineendcomment=\count172
+\ltj@dimen@zw=\dimen139
+\ltj@dimen@zh=\dimen140
+\ltj@dimen@jQ=\dimen141
+\ltj@icflag=\attribute6
+\ltj@curjfnt=\attribute7
+\ltj@curtfnt=\attribute8
+\ltj@charclass=\attribute9
+\ltj@charcode=\attribute10
+\ltj@autospc=\attribute11
+\ltj@autoxspc=\attribute12
+\ltj@yablshift=\attribute13
+\ltj@ykblshift=\attribute14
+\ltj@tablshift=\attribute15
+\ltj@tkblshift=\attribute16
+\jfam=\attribute17
+\ltj@vert@ori=\attribute18
+\ltj@dir=\attribute19
+\ltj@@japanese=\language2
+\ltj@tempcnta=\count173
+\ltj@kcat0=\attribute20
+\ltj@kcat1=\attribute21
+\ltj@kcat2=\attribute22
+\ltj@kcat3=\attribute23
+\ltj@kcat4=\attribute24
+\ltj@kcat5=\attribute25
+\ltj@kcat6=\attribute26
+Custom whatsit inhibitglue = 1
+Custom whatsit stack_marker = 2
+Custom whatsit begin_par = 3
+Custom whatsit direction = 4
+Custom whatsit box_boundary = 5
+Custom whatsit ja_al_boundary = 6(load cache: /home/cloudlatex/.texlive2019/texm
+f-var/luatexja/ltj-cid-auto-adobe-japan1.luc)
+Lua module: luatexja.charrange 2019/09/26 Handling the range of Japanese charact
+ers
+Lua module: luatexja.stack 2019/09/26 LuaTeX-ja stack system
+Inserting `ltj.create_dir_whatsit' at position 2 in `hpack_filter'.
+Inserting `ltj.create_dir_whatsit' at position 1 in `post_linebreak_filter'.
+Inserting `ltj.direction' at position 1 in `vpack_filter'.
+Inserting `ltj.direction' at position 1 in `pre_output_filter'.
+Inserting `ltj.lineskip' at position 2 in `post_linebreak_filter'.
+Inserting `ltj.lineskip' at position 1 in `append_to_vlist_filter'.
+Lua module: luatexja.jfont 2019/09/26 Loader for Japanese fonts
+Removing  `luaotfload.define_font' from `define_font'.
+Inserting `luatexja.font_callback' at position 1 in `define_font'.
+Removing  `luaotfload.aux.set_sscale_dimens' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_font_index' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.patch_cambria_domh' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_capheight' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_xheight' from `luaotfload.patch_font'.
+Removing  `luaotfload.rewrite_fontname' from `luaotfload.patch_font'.
+Inserting `ltj.prepare_extra_data' at position 1 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 2 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.set_font_index' at position 3 in `luaotfload.patch_fon
+t'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 4 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.set_capheight' at position 5 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 6 in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' at position 7 in `luaotfload.patch_font'
+.
+Inserting `ltj.prepare_extra_data' at position 1 in `luatexja.define_font'.
+Inserting `ltj.get_vert_form' at position 1 in `luatexja.define_jfont'.
+Removing  `ltj.prepare_extra_data' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_sscale_dimens' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_font_index' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.patch_cambria_domh' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_capheight' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_xheight' from `luaotfload.patch_font'.
+Removing  `luaotfload.rewrite_fontname' from `luaotfload.patch_font'.
+Inserting `ltj.supply_tounicode' at position 1 in `luaotfload.patch_font'.
+Inserting `ltj.prepare_extra_data' at position 2 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 3 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.set_font_index' at position 4 in `luaotfload.patch_fon
+t'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 5 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.set_capheight' at position 6 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 7 in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' at position 8 in `luaotfload.patch_font'
+.
+Inserting `ltj.process_input_buffer' at position 1 in `process_input_buffer'.
+Inserting `ltj.hyphenate' at position 1 in `hyphenate'.
+Removing  `luaotfload.node_processor' from `hpack_filter'.
+Removing  `ltj.create_dir_whatsit' from `hpack_filter'.
+Inserting `ltj.set_stack_level' at position 1 in `hpack_filter'.
+Inserting `luaotfload.node_processor' at position 2 in `hpack_filter'.
+Inserting `ltj.create_dir_whatsit' at position 3 in `hpack_filter'.
+Removing  `luaotfload.node_processor' from `pre_linebreak_filter'.
+Inserting `ltj.set_stack_level' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 2 in `pre_linebreak_filter'.
+Lua module: luatexja.jfmglue 2020/01/23 Insertion process of JFM glues, [x]kanji
+skip and others
+Inserting `luatexja.beginpar.np_info' at position 1 in `luatexja.jfmglue.whatsit
+_getinfo'.
+Inserting `luatexja.beginpar.np_info_after' at position 1 in `luatexja.jfmglue.w
+hatsit_after'.
+Inserting `ltj.mlist_to_hlist_pre' at position 1 in `pre_mlist_to_hlist_filter'.
+Inserting `ltj.main' at position 3 in `pre_linebreak_filter'.
+Removing  `ltj.create_dir_whatsit' from `hpack_filter'.
+Inserting `ltj.main' at position 3 in `hpack_filter'.
+Inserting `ltj.create_dir_whatsit' at position 4 in `hpack_filter'.
+Removing  `ltj.set_stack_level' from `pre_linebreak_filter'.
+Removing  `luaotfload.node_processor' from `pre_linebreak_filter'.
+Removing  `ltj.main' from `pre_linebreak_filter'.
+Inserting `ltj.adjust_icflag' at position 1 in `pre_linebreak_filter'.
+Inserting `ltj.set_stack_level' at position 2 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 3 in `pre_linebreak_filter'.
+Inserting `ltj.main' at position 4 in `pre_linebreak_filter'.
+Removing  `ltj.set_stack_level' from `hpack_filter'.
+Removing  `luaotfload.node_processor' from `hpack_filter'.
+Removing  `ltj.main' from `hpack_filter'.
+Removing  `ltj.create_dir_whatsit' from `hpack_filter'.
+Inserting `ltj.adjust_icflag' at position 1 in `hpack_filter'.
+Inserting `ltj.set_stack_level' at position 2 in `hpack_filter'.
+Inserting `luaotfload.node_processor' at position 3 in `hpack_filter'.
+Inserting `ltj.main' at position 4 in `hpack_filter'.
+Inserting `ltj.create_dir_whatsit' at position 5 in `hpack_filter'. (/usr/local
+/texlive/2019/texmf-dist/tex/luatex/luatexja/ltj-base.sty
+Package: ltj-base 2017/05/05
+\ltj@tempcntb=\count174
+\ltj@tempcntc=\count175
+\ltj@tempdima=\dimen142
+\ltj@afbox=\box50
+)
+\ltj@@italic@inner=\luafunction1
+\ltj@@jfont@inner=\luafunction2
+\ltj@zw@inner=\luafunction3
+\ltj@zh@inner=\luafunction4
+\ltj@reset@globaldefs@inner=\luafunction5
+\ltj@restore@globaldefs@inner=\luafunction6
+\ltj@@ihb@inner=\luafunction7
+\ltj@@fakeparbegin@inner=\luafunction8
+\ltj@@fakeboxbdd@inner=\luafunction9
+\ltj@@stack=\count176
+\ltj@@group@level=\count177
+\ltjsetkanjiskip@inner=\luafunction10
+\ltjsetxkanjiskip@inner=\luafunction11
+\ltj@alljachar@inner=\luafunction12
+\ltj@@box@dirhook=\luafunction13
+\ltj@@reset@badness@inner=\luafunction14
+
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/luatexja/ltj-latex.sty
+Package: ltj-latex 2019/09/26 LaTeX support of LuaTeX-ja
+
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/luatexja/patches/lltjfont.sty
+Package: lltjfont 2020/03/01 Patch to NFSS2 for LuaTeX-ja
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2020/02/11 v2.0o Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+)
+\Cht=\dimen143
+\cht=\dimen144
+\Cdp=\dimen145
+\cdp=\dimen146
+\Cwd=\dimen147
+\cwd=\dimen148
+\Cvs=\dimen149
+\cvs=\dimen150
+\Chs=\dimen151
+\chs=\dimen152
+\cHT=\dimen153
+\dstrutbox=\box51
+\tstrutbox=\box52
+\zstrutbox=\box53
+LaTeX Info: Redefining \strut on input line 67.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 317.
+\ltj@@adjust@baseline@inner=\luafunction15
+LaTeX Info: Redefining \fontencoding on input line 493.
+LaTeX Info: Redefining \fontfamily on input line 538.
+\ltj@@latex@plv=\count178
+LaTeX Info: Redefining \fontseries on input line 676.
+LaTeX Info: Redefining \fontseriesforce on input line 680.
+LaTeX Info: Redefining \fontshape on input line 685.
+LaTeX Info: Redefining \fontshapeforce on input line 689.
+LaTeX Info: Redefining \normalfont on input line 719.
+LaTeX Info: Redefining \bfseries on input line 746.
+LaTeX Info: Redefining \mdseries on input line 761.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/luatexja/patches/lltjdefs.sty
+Package: lltjdefs 2020/02/27 Default font settings of LuaTeX-ja
+luaotfload | db : Font names database loaded from /usr/local/texlive/2019/texmf-
+var/luatex-cache/generic-dev/names/luaotfload-names.luc
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 71.
+
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/jlreq/jfm-jlreqv.lua)
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 71.
+luaotfload | cache : Lookup cache loaded from /usr/local/texlive/2019/texmf-var/
+luatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/jlreq/jfm-jlreq.lua)
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY3/mc/m/n --> JY3/gt/m/n on input line 81.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty
+Package: lltjcore 2019/09/26 Patch to LaTeX2e Kernel for LuaTeX-ja
+\@tombowwidth=\dimen154
+\@TL=\box54
+\@Tl=\box55
+\@TC=\box56
+\@TR=\box57
+\@Tr=\box58
+\@BL=\box59
+\@Bl=\box60
+\@BC=\box61
+\@BR=\box62
+\@Br=\box63
+\@CL=\box64
+\@CR=\box65
+\@bannertoken=\toks24
+\@@paperheight=\dimen155
+\@@paperwidth=\dimen156
+\@@topmargin=\dimen157
+LaTeX Info: Redefining \underline on input line 237.
+LaTeX Info: Redefining \AtBeginDvi on input line 243.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/luatexja/patches/lltjp-geometry.
+sty
+Package: lltjp-geometry 2020/02/25 Patch to geometry for LuaTeX-ja with vertical
+ writing mode
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-25 L3 programming layer (loader) 
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count179
+\l__pdf_internal_box=\box66
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)))
+\ltj@temp@cctb=\catcodetable7
+)
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/luatexja/luatexja-compat.sty
+Package: luatexja-compat 2018/03/29 Compatibility with pTeX
+(load cache: /home/cloudlatex/.texlive2019/texmf-var/luatexja/ltj-jisx0208.luc)
+\hour=\count180
+\minute=\count181
+))
+(/usr/local/texlive/2019/texmf-dist/tex/luatex/luatexja/addons/luatexja-adjust.
+sty
+Package: luatexja-adjust 2018/07/24
+\ltjadj@status@le=\count182
+\ltjadj@status@lp=\count183
+\ltjadj@status@pr=\count184
+\ltjadj@status@ls=\count185
+Removing  `ltj.create_dir_whatsit' from `post_linebreak_filter'.
+Removing  `ltj.lineskip' from `post_linebreak_filter'.
+Inserting `Adjust width' at position 1 in `post_linebreak_filter'.
+Inserting `ltj.create_dir_whatsit' at position 2 in `post_linebreak_filter'.
+Inserting `ltj.lineskip' at position 3 in `post_linebreak_filter'.)
+Inserting `luatexja.adjust' at position 1 in `luatexja.adjust_jfmglue'.
+\jlreq@current@linewidth=\dimen158
+\jlreq@rest@linewidth=\dimen159
+\jlreq@lastnodechar=\count186
+\jlreq@fontsize=\dimen160
+\jlreq@jafontsize=\dimen161
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -122,240 +474,155 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-\symmincho=\mathgroup4
-LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 1001.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 10.0pt on input line 1069.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 10.0pt on input line 1069.
-\jlreq@baselineskip=\dimen158
-\jlreq@omotekeiwidth=\dimen159
-\jlreq@chuubusokeiwidth=\dimen160
-\jlreq@urakeiwidth=\dimen161
-\jlreq@footnoteindent=\dimen162
-\jlreq@sidenote@length=\dimen163
-\jlreq@sidenote@sep=\dimen164
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.00003pt on input line 1260.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.00003pt on input line 1260.
-\jlreq@BlockHeading@start@label@box=\box65
-\jlreq@BlockHeading@spaces@current@count=\count177
-\c@part=\count178
-\c@section=\count179
-\c@subsection=\count180
-\c@subsubsection=\count181
-\c@paragraph=\count182
-\c@subparagraph=\count183
-\jlreq@endnote@prepostspace=\dimen165
-\jlreq@endnote@indent=\dimen166
-\jlreq@PageStyle@box=\box66
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 12.95004pt on input line 1069.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 12.95004pt on input line 1069.
+\jlreq@baselineskip=\dimen162
+\jlreq@omotekeiwidth=\dimen163
+\jlreq@chuubusokeiwidth=\dimen164
+\jlreq@urakeiwidth=\dimen165
+\jlreq@footnoteindent=\dimen166
+\jlreq@sidenote@length=\dimen167
+\jlreq@sidenote@sep=\dimen168
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 10.36006pt on input line 1260.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 10.36006pt on input line 1260.
+\jlreq@BlockHeading@start@label@box=\box67
+\jlreq@BlockHeading@spaces@current@count=\count187
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\jlreq@endnote@prepostspace=\dimen169
+\jlreq@endnote@indent=\dimen170
+\jlreq@PageStyle@box=\box68
 \abovecaptionskip=\skip51
 \belowcaptionskip=\skip52
-\c@figure=\count184
-\c@table=\count185
-\jlreq@abstractbox=\box67
+\c@figure=\count194
+\c@table=\count195
+\jlreq@abstractbox=\box69
 \toclineskip=\skip53
-\@lnumwidth=\dimen167
-\jlreq@top@contents=\count186
-\bibindent=\dimen168
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 5754.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 5754.
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: dvipdfmx.def on input line 105.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
-File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
-))
-\Gin@req@height=\dimen169
-\Gin@req@width=\dimen170
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-dvipdfmx.def
-File: l3backend-dvipdfmx.def 2020-02-23 L3 backend support: dvipdfmx
-\g__graphics_track_int=\count187
-\l__pdf_internal_box=\box68
-\g__pdf_backend_object_int=\count188
-\g__pdf_backend_annotation_int=\count189
+\@lnumwidth=\dimen171
+\jlreq@top@contents=\count196
+\bibindent=\dimen172
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 11.65495pt on input line 5754.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 11.65495pt on input line 5754.
 ) (./main.aux)
-\openout1 = `main.aux'.
+\openout1 = main.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
- (I search kanjifont definition file: . . )
-(I search font definition file: . . . . . . . )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-1.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5.
+
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 5.
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 22.01506pt on input line 15.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 22.01506pt on input line 15.
+LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <23.8> not available
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
+(Font)              scaled to size 22.01506pt on input line 15.
+LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <23.8> not available
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
+(Font)              scaled to size 22.01506pt on input line 15.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 15.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 15
+.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package nag Info: Command \bf not defined, skipping amendment on input line 11.
-
-Package nag Info: Command \it not defined, skipping amendment on input line 11.
-
-Package nag Info: Command \rm not defined, skipping amendment on input line 11.
-
-Package nag Info: Command \sc not defined, skipping amendment on input line 11.
-
-Package nag Info: Command \sf not defined, skipping amendment on input line 11.
-
-Package nag Info: Command \sl not defined, skipping amendment on input line 11.
-
-Package nag Info: Command \tt not defined, skipping amendment on input line 11.
-
-Package nag Info: Command \frontmatter not defined, skipping amendment on input
- line 11.
-Package nag Info: Command \mainmatter not defined, skipping amendment on input 
-line 11.
-Package nag Info: Command \backmatter not defined, skipping amendment on input 
-line 11.
-Package nag Info: Command \RaggedLeft not defined, skipping amendment on input 
-line 11.
-Package nag Info: Command \RaggedRight not defined, skipping amendment on input
- line 11.
-Package nag Info: Command \caption@xlabel not defined, skipping amendment on in
-put line 11.
-Package nag Info: Command \captionabove not defined, skipping amendment on inpu
-t line 11.
-Package nag Info: Command \captionbelow not defined, skipping amendment on inpu
-t line 11.
-Package nag Info: Command \hc@caption not defined, skipping amendment on input 
-line 11.
-Package nag Info: Command \topcaption not defined, skipping amendment on input 
-line 11.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 17.0pt on input line 12.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 17.0pt on input line 12.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 12.0pt on input line 12.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 12.0pt on input line 12.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-2.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 15
+.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-12.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 1
+5.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-12.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 1
+5.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <14> on input line 15.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 12.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 12.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.0pt on input line 12.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.0pt on input line 12.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 14.0pt on input line 14.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 14.0pt on input line 14.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 14.0pt on input line 14.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 14.0pt on input line 14.
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-14.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/ot1lmss.fd
-File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `JT1/gt/b/n' in size <14> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 14.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 14.0pt on input line 14.
-LaTeX Font Info:    Font shape `JY1/gt/b/n' in size <14> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 14.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 14.0pt on input line 14.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 15.
+(Font)              <9.79996> on input line 15.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 15.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 15.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 7.0pt on input line 15.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 5.0pt on input line 15.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 7.0pt on input line 15.
-File: figures/Sample.png Graphic file (type bmp)
-<figures/Sample.png>
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 31.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 31.
-LaTeX Font Info:    Font shape `JT1/gt/b/n' in size <8.99994> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 31.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 31.
-LaTeX Font Info:    Font shape `JY1/gt/b/n' in size <8.99994> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 31.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 31.
-Package plautopatch Info: No additional packages loaded on input line 39.
-
-No complaints by nag.
-[1
-
-] (./main.aux) ) 
-Here is how much of TeX's memory you used:
- 3496 strings out of 481528
- 68903 string characters out of 5925951
- 330270 words of memory out of 5000000
- 19110 multiletter control sequences out of 15000+600000
- 587836 words of font info for 90 fonts, out of 8000000 for 9000
- 929 hyphenation exceptions out of 8191
- 35i,6n,53p,1122b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on main.dvi (1 page, 3516 bytes).
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 9.06499pt on input line 15.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 6.47502pt on input line 15.
+ [1{/home/cloudlatex/.texlive2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-main.dvi -> main.pdf
-[1]
-75847 bytes written
+
+] (./main.aux))
+
+Here is how much of LuaTeX's memory you used:
+ 4177 strings out of 481351
+ 125171,383344 words of node,token memory allocated
+ 2219 words of node memory still in use:
+   11 hlist, 1 vlist, 5 rule, 9 glue, 3 kern, 4 glyph, 690 attribute, 75 glue_sp
+ec, 42 attribute_list, 1 write, 13 user_defined nodes
+   avail lists: 1:9,2:6434,3:81,4:78,5:27,6:14,7:437,8:18,9:143,10:9
+ 21095 multiletter control sequences out of 65536+600000
+ 49 fonts using 20714875 bytes
+ 73i,4n,62p,1133b,260s stack positions out of 5000i,500n,10000p,200000b,100000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local
+/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2019/t
+exmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/local/texlive/2019/texmf-dist/f
+onts/opentype/public/lm/lmroman12-regular.otf></usr/local/texlive/2019/texmf-dis
+t/fonts/truetype/public/ipaex/ipaexm.ttf></usr/local/texlive/2019/texmf-dist/fon
+ts/truetype/public/ipaex/ipaexg.ttf></usr/local/texlive/2019/texmf-dist/fonts/op
+entype/public/lm/lmroman12-bold.otf></usr/local/texlive/2019/texmf-dist/fonts/ty
+pe1/public/lm/lmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/
+lm/lmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr12.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on main.pdf (1 page, 357410 bytes).
+
+PDF statistics: 55 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
+
+
